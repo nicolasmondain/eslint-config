@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "JavaScript Eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasmondain/eslint-config.git"
+  },
+  "author": "nicolasmondain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolasmondain/eslint-config/issues"
+  },
+  "homepage": "https://github.com/nicolasmondain/eslint-config#readme",
+  "devDependencies": {
+    "eslint": "8.2.0",
+    "eslint-plugin-import": "2.25.2",
+    "eslint-plugin-node": "11.1.0",
+    "eslint-watch": "8.0.0"
+  }
+}
