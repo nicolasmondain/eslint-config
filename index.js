@@ -435,7 +435,7 @@ module.exports = {
 			}
 		],
 		"prefer-exponentiation-operator": "error",
-		"prefer-object-spread": "error",
+		"prefer-object-spread": "off",
 		"quote-props": ["error", "consistent-as-needed"],
 		quotes: [
 			"error",
