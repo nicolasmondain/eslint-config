@@ -379,7 +379,7 @@ module.exports = {
 			"error",
 			{ afterBlockComment: true, afterBlockComment: true },
 		],
-		"lines-between-class-members": "error",
+		"lines-between-class-members": "off",
 		"max-depth": ["error", 4],
 		"max-len": ["warn", { code: 250, comments: 250 }],
 		"max-lines": ["warn", { max: 500, skipComments: true }],
