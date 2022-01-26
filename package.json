@@ -1,6 +1,6 @@
 {
   "name": "@sharingbox/eslint-config",
-  "version": "2.0.30",
+  "version": "2.0.31",
   "description": "JavaScript Eslint configuration",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/nicolasmondain/eslint-config.git"
   },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "standards"
+  ],
   "author": "nicolasmondain",
   "license": "MIT",
   "bugs": {
