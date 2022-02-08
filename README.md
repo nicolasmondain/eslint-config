@@ -2,7 +2,6 @@
 
 Core coding standards for sharingbox FRANCE.
 
-[![npm downloads](https://img.shields.io/npm/dm/@sharingbox/eslint-config)](https://www.npmjs.com/package/@sharingbox/eslint-config)
 [![npm version](https://img.shields.io/npm/v/@sharingbox/eslint-config)](https://www.npmjs.com/package/@sharingbox/eslint-config)
 
 ## Installation
