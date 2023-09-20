@@ -1,4 +1,4 @@
-# @nicolasmondain/eslint-config
+# eslint-config
 
 Core coding standards.
 
